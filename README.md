@@ -1,0 +1,1 @@
+# webrecorder-basic-automation
